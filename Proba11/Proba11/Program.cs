@@ -10,7 +10,7 @@ namespace Proba11
     {
         static void Main(string[] args)
         {
-            //
+            //oo
         }
     }
 }
